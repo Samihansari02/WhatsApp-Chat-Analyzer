@@ -33,7 +33,7 @@ The WhatsApp Chat Analyzer is an interactive Streamlit app that allows users to 
    streamlit run app.py
 
 
-🌐 Live Demo : https://whatsapp-chat-analyzer-pb57.onrender.com/
+## 🌐 Live Demo : https://whatsapp-chat-analyzer-pb57.onrender.com/
 
 ## How to Use
 - Export your WhatsApp chat from your phone as a .txt file (without media).
